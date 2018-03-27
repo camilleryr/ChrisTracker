@@ -62,9 +62,10 @@ This chart shows the prevalance of each tier of color on the heatmap
 
 [Check out the live ChrisTracker Desktop Client](http://chrismiller.club/tracker-client/)
 
-## Alexa Skill
+## [Alexa Skill](https://github.com/camilleryr/TrackerAlexa)
+https://github.com/camilleryr/TrackerAlexa
 
 All of these pieces allowed me to track my running habits and gave me the ability to visualize the data so that I could stay accountable to it, but I had one more problem that I wanted to solve.
 After getting home from a run, I didn't want to jump straight onto my computer or mess with my phone more than necessary to get some information about the activity I just tracked - so I built an Alexa skill to tell me as soon as I walk in the door.
 
-After deactivating the mobile app, I can walk into my house and say "Alexa, ask Chris Tracker about my latest run" and she will respond with "Chris' latest run was on {date} was {distance} miles and took {minutes} minutes and {seconds} seconds"
+After deactivating the mobile app, I can walk into my house and say "Alexa, ask Chris Tracker about my latest run" and she will trigger the lamda function hosted on AWS (matching the above linked repo) that will call a custom endpoint on my api and respond with "Chris' latest run was on {date} was {distance} miles and took {minutes} minutes and {seconds} seconds"
