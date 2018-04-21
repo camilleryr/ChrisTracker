@@ -13,7 +13,7 @@ Demoed 3/34/2018
 
 <img src="/images/artworks-000322763632-yrayng-t500x500.jpg" width="400">
 
-Over the course of 2017 I started running a lot, because of that first picture.  In the fall of that same year, I enrolled in NSS, a full time, immersive, software development program - and between that and a full time day job it because far to easy for me to skip a day of running here and there.
+Over the course of 2017 I started running a lot, because of that first picture.  In the fall of that same year, I enrolled in NSS, a full time, immersive, software development program - and between that and a full time day job it became far to easy for me to skip a day of running here and there.
 Since I wanted to avoid the me that was in that first picture, I wanted to build a platform of applications that would keep me accountable for making the choices needed to be the best version of myself
 
 ## [Mobile App : React Native](https://github.com/camilleryr/TrackerMobile)
